@@ -1,7 +1,7 @@
 const params = {
-    serverNode: '172.16.1.52:30015',
-    uid: 'system',
-    pwd: 'AtTu2AUC'
+    serverNode: 'MYHOST:PORT',
+    uid: 'USER',
+    pwd: 'PASSWORD'
 };
 
 module.exports = params;
